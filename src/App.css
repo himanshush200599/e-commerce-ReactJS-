@@ -7,7 +7,7 @@
 }
 body {
   font-family: "Oswald", sans-serif !important;
-  background: var(--mainWhite0) !important;
+  background: var(--mainWhite) !important;
   color: var(--mainDark) !important;
 }
 .text-title {
